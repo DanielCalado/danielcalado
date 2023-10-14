@@ -1,5 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DanielCalado/danielcalado/blob/main/danielCalado.png" />
-&nbsp;&nbsp;&nbsp;
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielcalado_97?utm_source=qr&igshid=MzNINGNkZWQ4Mg%3D%3D)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/daniel-calado-a1950a159)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/daniel.calado.925)
