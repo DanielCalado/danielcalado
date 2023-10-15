@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DanielCalado/danielcalado/blob/main/danielCalado1.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/DanielCalado/danielcalado/blob/main/danielCalado2.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align = "center">I'm a software developer passionate about creating web and app solutions that combine elegant design and powerful functionality.
